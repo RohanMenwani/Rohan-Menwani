@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rohan Menwani Portfolio",
     type: "website",
-    url: "http://RohanMenwani.com/",
+    url: "https://rohan-menwani.vercel.app/",
   },
 };
 
@@ -276,8 +276,8 @@ const experience = {
           logo_path: "lanet.jpg",
           duration: "July 2023 - July 2024",
           location: "Surat, Gujarat, India",
-          description:
-            "Working in a service-based company has provided numerous opportunities to learn and grow. Engaged in various projects, gaining valuable experience in teamwork and project management. Successfully managed projects both as part of a team and as a sole developer, continuously expanding skills and knowledge.",
+          // description:
+          // "Working in a service-based company has provided numerous opportunities to learn and grow. Engaged in various projects, gaining valuable experience in teamwork and project management. Successfully managed projects both as part of a team and as a sole developer, continuously expanding skills and knowledge.",
           color: "#000000",
         },
       ],
@@ -292,8 +292,8 @@ const experience = {
           logo_path: "lanet.jpg",
           duration: "Jan 2023 - June 2023",
           location: "Surat, Gujarat, India",
-          description:
-            "Gained hands-on experience through various projects, enhancing technical skills and professional development.",
+          // description:
+          // "Gained hands-on experience through various projects, enhancing technical skills and professional development.",
         },
         {
           title: "Python Intern",
@@ -302,8 +302,8 @@ const experience = {
           logo_path: "creart.jpg",
           duration: "June 2022 - July 2022",
           location: "Ahmedabad, Gujarat, India",
-          description:
-            "I have worked on project of creating a authentication system with the help of Django, while learning python",
+          // description:
+          // "I have worked on project of creating a authentication system with the help of Django, while learning python",
           color: "#ee3c26",
         },
       ],

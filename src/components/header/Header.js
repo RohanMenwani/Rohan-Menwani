@@ -97,17 +97,13 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
-                <NavLink
-                  to="/opensource"
+                <a
+                  href={greeting.resumeLink}
                   className="resumeButton"
-                  tag={Link}
-                  // activeStyle={{ fontWeight: "bold" }}
-                  // style={{ color: theme.text }}
-                  // onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
-                  // onMouseOut={(event) => onMouseOut(event)}
+                  target={"_blank"}
                 >
                   Resume
-                </NavLink>
+                </a>
               </li>
             </ul>
           </header>
